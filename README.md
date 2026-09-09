@@ -15,4 +15,4 @@
 - **Idiomas:** Inglês (Leitura e compreensão técnica avançada).
 
 ---
-📫 **Como me encontrar:** [www.linkedin.com/in/danielc777] | [daniel123calista@gmail.com]
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/danielc777) | [E-mail](mailto:daniel123calista@gmail.com)
