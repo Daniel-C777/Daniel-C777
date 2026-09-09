@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Daniel! 👋
 
-<!--
-**Daniel-C777/Daniel-C777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Graduando em **Engenharia Elétrica**  
+📍 Londrina - PR, Brasil
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🎓 Cursando Bacharelado em Engenharia Elétrica (foco em fenômenos físicos, eletromagnetismo e circuitos).
+- 🤖 Capacitação em **Inteligência Artificial & Engenharia de Prompt** pelo Bootcamp Agente de IA (Caixa / DIO).
+- 📜 240h de formação em **Língua Inglesa** voltada para leitura e interpretação técnica.
+- 💡 Interesses em automação, sistemas embarcados (Arduino) e aplicação de IA na engenharia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+- **Engenharia & Hardware:** Arduino, diagramas elétricos, análise de circuitos e documentação técnica.
+- **Inteligência Artificial:** Engenharia de Prompt, estruturação de contexto para LLMs, automação.
+- **Idiomas:** Inglês (Leitura e compreensão técnica avançada).
+
+---
+📫 **Como me encontrar:** [www.linkedin.com/in/danielc777] | [daniel123calista@gmail.com]
